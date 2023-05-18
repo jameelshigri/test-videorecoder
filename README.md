@@ -14,6 +14,7 @@ npm run serve
 ```
 npm run build
 ```
-
+```Jamil Ahmad ``` 
+```Vue Based Project to record screens and save vidos locally```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
